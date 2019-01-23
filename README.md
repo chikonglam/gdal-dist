@@ -1,10 +1,10 @@
 # GDAL with DDS for Ubuntu
-  Installion instructions are available in the folder of each version.
+  Installation instructions are available in the folder of each version.
   
-## Source Repository:
+## Source Repositories:
 * Primary: https://salsa.debian.org/yayclam-guest/gdal/
 * Secondary: https://github.com/chikonglam/gdal/
 
 ## Upstream sources:
-* GDAL:  https://github.com/pdavidc/crunch/
+* GDAL:  https://salsa.debian.org/debian-gis-team/gdal/
 * Crunch:  https://github.com/pdavidc/crunch/
